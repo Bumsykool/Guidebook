@@ -7,7 +7,7 @@ Table of content for our new guidebook
 
 Discovery
 
-<a href src="https://github.com/Bumsykool/Guidebook/blob/master/Designing" >Designing</a>
+[Designing] (https://github.com/Bumsykool/Guidebook/blob/master/Designing) 
 
 Developing
 
